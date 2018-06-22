@@ -1,0 +1,48 @@
+Start the game
+One question is shown at a time
+
+Click an answer
+Show correct ot incorrect
+and move on to next question
+
+When Timeout , when zero, shows out of time, show answer
+
+end
+ show correct, incorrect, startover will reset the game
+
+Click START to start game
+
+Game page
+
+Show timer
+
+Add first object question
+Add four buttons with options
+Add click button to h2 answers
+	If clicked, then show result
+      if incorrect answer then	
+
+	  Nope!!
+
+	  The correct answer was xxx!
+	  Show video
+
+	Add timer to show result
+	Once timeout , show next question 
+		or
+		game over
+
+//////
+Load first quiz
+START button clicked,
+
+show first quiz
+user clicks answer
+	show result page with answer	
+	check if all quesions are done 
+		no
+		Load next question...
+		....
+
+		yes
+		show result page with start button 	
